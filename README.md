@@ -1,0 +1,2 @@
+# TinyML
+M.Tech Thesis
